@@ -17,7 +17,7 @@ header h1  {
     background-image: url("header-image-1.gif");
     background-position: left top;
     background-repeat: no-repeat;}
-section #container {
+#container {
       margin-bottom: 30px;}
 nav {
   float: left;
@@ -40,7 +40,7 @@ nav a {
   text-decoration: none;}
 nav a:hover{
   background-color: #7C1A00;}
-article #content {
+ #content {
     background-image: url("trans-bg.gif");
     border: 1px solid #CCCCCC;
     margin-left: 180px;
